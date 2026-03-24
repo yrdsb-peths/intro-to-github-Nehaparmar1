@@ -1,3 +1,5 @@
 public class Student {
-    String firstName;
+    String firstName = "Neha";
+    int age = 16;
+}
 }
